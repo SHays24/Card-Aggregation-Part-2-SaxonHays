@@ -60,7 +60,7 @@ class Hand {
   }
   
     /**
-  * Return the number of cards in the hand.
+  * Return the number of cards in the hand. 
   */
     public int getCardCount()
   {
